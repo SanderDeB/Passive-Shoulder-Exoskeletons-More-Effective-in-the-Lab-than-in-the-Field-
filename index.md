@@ -25,4 +25,4 @@ laboratory setting, but evidence of their effectiveness outside the lab is lacki
 ## Appendix A
 {% include youtubePlayer.html id="RKR0DXw3vJI" %}
 
-For more information, please contact the corresponding author: Kevin.De.Pauw@vub.be.
+For more information, please contact the corresponding author, Prof. Dr. Kevin De Pauw (Kevin.De.Pauw@vub.be).
