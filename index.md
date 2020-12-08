@@ -27,3 +27,6 @@ laboratory setting, but evidence of their effectiveness outside the lab is lacki
 {% include youtubePlayer.html id="RKR0DXw3vJI" %}
 
 For more information, please contact the corresponding author, Prof. Dr. Kevin De Pauw (Kevin.De.Pauw@vub.be).
+
+### Citation
+De Bock, S., Ghillebert, J., Govaerts, R., Elprama, S. A., Marusic, U., Serrien, B., ... & De Pauw, K. Passive Shoulder Exoskeletons: More Effective in the Lab than in the Field?. _IEEE transactions on neural systems and rehabilitation engineering: a publication of the IEEE Engineering in Medicine and Biology Society_.
