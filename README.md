@@ -1,1 +1,1 @@
-# TNSRE: Passive Shoulder Exoskeletons: More Effective in the Lab than in the Field?
+# TNSRE: Passive Shoulder Exoskeletons in the Field
