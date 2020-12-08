@@ -26,7 +26,7 @@ laboratory setting, but evidence of their effectiveness outside the lab is lacki
 {% include youtubePlayer.html id="RKR0DXw3vJI" %}
 
 
-You can use the [editor on GitHub](https://github.com/SanderDeB/TNSRE_InFieldExoEvaluation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Use the [editor on GitHub](https://github.com/SanderDeB/TNSRE_InFieldExoEvaluation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
