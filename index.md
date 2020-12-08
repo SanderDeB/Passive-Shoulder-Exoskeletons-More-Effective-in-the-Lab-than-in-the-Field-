@@ -3,6 +3,7 @@
 **By Sander De Bock, Jo Ghillebert, Renée Govaerts, Shirley A. Elprama, Uros Marusic, Ben Serrien, An Jacobs, Joost Geeroms, Romain Meeusen and Kevin De Pauw**
 
 Welcome to the GitHub Pages containing supplemental video material of our study.
+On this page we provide  publication information, the abstract of the study and supplementary video materials are provided.
 
 ## Publication information
 **Published in:** IEEE Transactions on Neural Systems and Rehabilitation Engineering
